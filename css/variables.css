@@ -1,0 +1,7 @@
+:root {
+  --cell-size: 15px;
+  --cell-color-alive: #222;
+  --cell-color-dead: #eee;
+  --grid-gap: 1px;
+  --board-bg: #fafafa;
+}
